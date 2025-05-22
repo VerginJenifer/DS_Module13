@@ -74,7 +74,7 @@ void evalprefix(char p[50])
 
 ## Output:
 
-![Output](img/evalpre.pngs)
+![Output](img/evalpre.png)
 
 ## Result:
 Thus, the C program to evaluate the prefix expression using stack and print the output of the given prefix expression from the stack inside the function is implemented successfully.
